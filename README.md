@@ -16,11 +16,10 @@ http://openaccess.thecvf.com/content_ICCV_2019/papers/Zheng_SPLINE-Net_Sparse_Ph
 
 ```shell
 # Prepare the test set which consists of 100 subsets, 10 lightings each object
-sh prepare_diligent_testset.sh
-# This command will download and unzip the test set
+The data can be downloaded from: https://pan.baidu.com/s/1UQVBLpwnzn-Fn76QwHDbgA code：iccv 
 
 # Download pre-trained model
-sh download_pretrained_model.sh
+The pre-trained model can be downloaded from: https://pan.baidu.com/s/1OiAc76HgZA9s4NzYxxYRoA, code: iccv
 
 # Run for test
 python main.py --mode test
