@@ -12,6 +12,9 @@ http://openaccess.thecvf.com/content_ICCV_2019/papers/Zheng_SPLINE-Net_Sparse_Ph
 
 - Will upload soon
 
+# Testing & training data generation
+Please refer to generate_data_in_one.m. 
+
 ## Test SPLINE-Net on DiLiGenT Dataset
 
 ```shell
@@ -24,6 +27,7 @@ The pre-trained model can be downloaded from: https://pan.baidu.com/s/1OiAc76HgZ
 # Run for test
 python main.py --mode test
 # Please check the results in photometric/results
+
 ```
 
 ## Test SPLINE-Net on your own dataset
