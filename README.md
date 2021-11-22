@@ -12,7 +12,7 @@ http://openaccess.thecvf.com/content_ICCV_2019/papers/Zheng_SPLINE-Net_Sparse_Ph
 
 - Will upload soon
 
-# Testing & training data generation
+## Testing & training data generation
 Please refer to generate_data_in_one.m. 
 
 ## Test SPLINE-Net on DiLiGenT Dataset
